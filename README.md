@@ -22,9 +22,12 @@
 
 ## 下载
 
-请到 [GitHub Releases](https://github.com/local-voice-assistant/local-voice-assistant/releases/latest) 获取最新 dmg，并核对 `SHA256SUMS.txt`。
+请到 [GitHub Releases](https://github.com/local-voice-assistant/local-voice-assistant/releases/latest) 获取安装包，并核对 `SHA256SUMS.txt`：
 
-更新检测使用本仓库根目录的 [`latest.json`](latest.json)（仅版本与下载信息）。
+- **精简版**（`*-slim-*.dmg`）：体积小，首次需下载识别模型
+- **全量版**（`*-full-*.dmg`）：内置默认识别模型，装好即可用
+
+详见 [下载与安装](DOWNLOAD.md)。更新检测使用本仓库根目录的 [`latest.json`](latest.json)。
 
 ## 反馈
 
