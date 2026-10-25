@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-label="系统听写示意">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="420" rx="24" fill="url(#bg2)"/>
+  <text x="48" y="64" fill="#93c5fd" font-family="ui-sans-serif,system-ui,sans-serif" font-size="28" font-weight="700">系统听写</text>
+  <text x="48" y="104" fill="#9ca3af" font-family="ui-sans-serif,system-ui,sans-serif" font-size="18">按住修饰键说话，字直接注入当前应用</text>
+  <rect x="48" y="148" width="520" height="200" rx="16" fill="#0b1220" stroke="#374151"/>
+  <text x="72" y="196" fill="#6b7280" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">备忘录 · 光标处</text>
+  <text x="72" y="250" fill="#f3f4f6" font-family="ui-sans-serif,system-ui,sans-serif" font-size="26">请把会议纪要发到群里，</text>
+  <text x="72" y="292" fill="#f3f4f6" font-family="ui-sans-serif,system-ui,sans-serif" font-size="26">并标出三项待办。</text>
+  <rect x="616" y="148" width="288" height="200" rx="16" fill="#0b1220" stroke="#2563eb"/>
+  <circle cx="760" cy="220" r="36" fill="#1d4ed8"/>
+  <circle cx="748" cy="216" r="4" fill="#fff"/><circle cx="760" cy="216" r="4" fill="#fff"/><circle cx="772" cy="216" r="4" fill="#fff"/>
+  <rect x="744" y="228" width="32" height="14" rx="4" fill="#fff"/>
+  <text x="700" y="300" fill="#bfdbfe" font-family="ui-sans-serif,system-ui,sans-serif" font-size="18">按住 Fn · 听写中</text>
+</svg>

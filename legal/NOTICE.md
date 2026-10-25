@@ -10,7 +10,6 @@
 | sherpa-onnx / sherpa-onnx-node | Apache-2.0 | 本机 ASR / VAD / 声纹 / 标点 |
 | @earendil-works/pi-coding-agent | 按其仓库许可 | Agent 运行时 |
 | Fastify 及相关插件 | MIT | 本机 HTTP/WS |
-| ffmpeg（若打包） | LGPL/GPL（取决于构建选项） | 停录后音频转码 |
 | Silero VAD | 按其模型许可 | 语音活动检测 |
 
 请自行查阅各上游仓库的 LICENSE 文件以获取完整条款。
@@ -27,6 +26,6 @@
 
 模型权重由上游发布，再分发与商用条款以模型作者声明为准。本产品默认由用户在线下载，而非内置商用再分发。
 
-## ffmpeg
+## 录音压缩
 
-若发行包内含 ffmpeg 动态库，请遵守其 LGPL/GPL 义务（提供对应源码获取方式或使用 LGPL 构建）。构建脚本见 `packaging/bundle-ffmpeg.sh`。
+停录后的录音由 macOS 自带的 `afconvert`（系统 AudioToolbox）编码为 AAC（`.m4a`）。本软件**不附带、不下载**任何第三方音频编码器或转码程序；非 macOS 环境不做压缩，录音保留为 WAV。

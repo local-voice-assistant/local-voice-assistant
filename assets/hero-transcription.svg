@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-label="实时转写示意">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="640" fill="url(#bg)"/>
+  <rect x="48" y="48" width="1104" height="544" rx="24" fill="url(#card)" stroke="#334155" stroke-width="2"/>
+  <circle cx="88" cy="92" r="7" fill="#ef4444"/>
+  <circle cx="114" cy="92" r="7" fill="#eab308"/>
+  <circle cx="140" cy="92" r="7" fill="#22c55e"/>
+  <text x="180" y="98" fill="#94a3b8" font-family="ui-sans-serif,system-ui,sans-serif" font-size="18">本地语音助手 · 实时转写</text>
+  <rect x="80" y="140" width="720" height="400" rx="16" fill="#0b1220" stroke="#1e293b"/>
+  <text x="108" y="190" fill="#38bdf8" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">说话人 A</text>
+  <text x="108" y="224" fill="#e2e8f0" font-family="ui-sans-serif,system-ui,sans-serif" font-size="22">今天先把产品发布节奏对齐一下。</text>
+  <text x="108" y="280" fill="#a78bfa" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">说话人 B</text>
+  <text x="108" y="314" fill="#e2e8f0" font-family="ui-sans-serif,system-ui,sans-serif" font-size="22">好的，文档和安装包可以一起上。</text>
+  <text x="108" y="370" fill="#38bdf8" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">说话人 A</text>
+  <text x="108" y="404" fill="#e2e8f0" font-family="ui-sans-serif,system-ui,sans-serif" font-size="22">转写在本机完成，音频默认不出电脑。</text>
+  <rect x="840" y="140" width="260" height="400" rx="16" fill="#0b1220" stroke="#1e293b"/>
+  <text x="868" y="184" fill="#94a3b8" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">洞察</text>
+  <rect x="868" y="208" width="204" height="88" rx="12" fill="#172554" stroke="#1d4ed8"/>
+  <text x="884" y="244" fill="#bfdbfe" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15">待办</text>
+  <text x="884" y="270" fill="#e2e8f0" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">同步发布说明</text>
+  <rect x="868" y="316" width="204" height="88" rx="12" fill="#3b0764" stroke="#7e22ce"/>
+  <text x="884" y="352" fill="#e9d5ff" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15">风险</text>
+  <text x="884" y="378" fill="#e2e8f0" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">临时签名需放行</text>
+  <rect x="868" y="424" width="204" height="72" rx="12" fill="#052e16" stroke="#15803d"/>
+  <text x="884" y="466" fill="#bbf7d0" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16">本机识别 · 说话人区分</text>
+</svg>

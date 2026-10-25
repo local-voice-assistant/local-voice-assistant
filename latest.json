@@ -5,17 +5,5 @@
   "notes": "见 GitHub Release 说明",
   "publishedAt": "2026-10-25T08:36:50Z",
   "arch": "arm64",
-  "minOs": "14.2",
-  "variants": {
-    "slim": {
-      "url": "https://github.com/local-voice-assistant/local-voice-assistant/releases/download/v0.1.0/LocalVoiceAssistant-0.1.0-slim-arm64.dmg",
-      "sha256": "821d6ee925eedaead16e76c60e388f2841e4ac289c4d3de4ecbddeecdca53fc2",
-      "label": "精简版（不含模型）"
-    },
-    "full": {
-      "url": "https://github.com/local-voice-assistant/local-voice-assistant/releases/download/v0.1.0/LocalVoiceAssistant-0.1.0-full-arm64.dmg",
-      "sha256": "6a9f374aabad4c198607632c735753fbcb797175373dc12fedbbb86145333a97",
-      "label": "全量版（含默认识别模型）"
-    }
-  }
+  "minOs": "14.2"
 }

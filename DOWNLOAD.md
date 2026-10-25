@@ -7,14 +7,9 @@
 
 [前往 GitHub Releases](https://github.com/local-voice-assistant/local-voice-assistant/releases/latest)
 
-每个版本提供两种安装包：
+下载 `LocalVoiceAssistant-*-arm64.dmg`，并核对 Release 中的 `SHA256SUMS.txt`。版本元数据见 [`latest.json`](latest.json)。
 
-| 文件 | 说明 |
-|------|------|
-| `LocalVoiceAssistant-*-slim-arm64.dmg` | **精简版**：体积小；首次使用需在应用内下载默认识别模型（约 1.5GB） |
-| `LocalVoiceAssistant-*-full-arm64.dmg` | **全量版**：已内置默认识别模型，安装后即可转写（安装包更大） |
-
-请核对 Release 中的 `SHA256SUMS.txt`。版本元数据见 [`latest.json`](latest.json)（`url` 默认指向精简版；`variants.slim` / `variants.full` 为两份完整链接）。
+安装包**不含**识别模型；首次使用请在应用内下载默认识别模型（约 1.5GB）。
 
 ## 首次打开被拦截？
 
