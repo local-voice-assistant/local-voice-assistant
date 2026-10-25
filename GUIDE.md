@@ -19,4 +19,6 @@
 
 同一时间请只让一个程序连接同一台设备。
 
-返回 [首页](README.md) · [软件介绍](PRODUCT.md)
+设备能力与单品说明见 [扩展硬件详情](HARDWARE.md)。
+
+返回 [首页](README.md) · [软件介绍](PRODUCT.md) · [扩展硬件详情](HARDWARE.md)
