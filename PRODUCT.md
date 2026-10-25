@@ -28,13 +28,17 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/crop-insight.jpg" alt="洞察卡片" width="400"/><br/>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/creative-insight.jpg" alt="旁听洞察" width="260"/><br/>
       <sub>旁听洞察</sub>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/crop-docs.jpg" alt="产出文档" width="400"/><br/>
-      <sub>技能产出与资料库</sub>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/creative-skills.jpg" alt="技能产出" width="260"/><br/>
+      <sub>技能产出</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/creative-workspace.jpg" alt="工作区互动" width="260"/><br/>
+      <sub>工作区互动</sub>
     </td>
   </tr>
 </table>
@@ -73,26 +77,7 @@ flowchart TB
 
 ## 扩展硬件
 
-<p align="center">
-  <img src="assets/hardware.jpg" alt="CB08 与 AI Passport" width="820"/>
-</p>
-
-通过蓝牙接入。同一时间建议只由一个程序连接设备。
-
-### CB08 录音卡
-
-- 实时语音上行到本机转写 / 听写
-- 支持设备上录音文件的列表与下载
-
-### AI Passport 电子工牌
-
-<p align="center">
-  <img src="assets/ai-passport-photo.png" alt="AI Passport 电子工牌实物" height="360"/>
-</p>
-
-- 实时语音上行（设备上无录音文件分区）
-- 三键控制会议：开始 / 停止 / 暂停与继续
-- 长按可触发听写（听写音源需设为工牌时）
+可连接 CB08 录音卡与 AI Passport 电子工牌（蓝牙）。两款设备能力不同，详见 **[扩展硬件详情](HARDWARE.md)**。
 
 ---
 
@@ -102,4 +87,4 @@ flowchart TB
 - 可选配置你自己的云端大模型 API（文本才会出本机）
 - 数据目录：`~/Library/Application Support/本地语音助手/`
 
-返回 [首页](README.md) · [使用教程](GUIDE.md) · [下载](DOWNLOAD.md) · [捐赠](DONATE.md)
+返回 [首页](README.md) · [扩展硬件详情](HARDWARE.md) · [使用教程](GUIDE.md) · [下载](DOWNLOAD.md) · [捐赠](DONATE.md)

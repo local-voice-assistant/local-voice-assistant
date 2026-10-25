@@ -46,22 +46,15 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
-      <strong>实时转写</strong>
-      <ul>
-        <li>本机流式识别与离线定稿</li>
-        <li>说话人区分，边说边出字</li>
-        <li>音频默认不出本机</li>
-      </ul>
-      <strong>系统听写</strong>
-      <ul>
-        <li>按住修饰键说话</li>
-        <li>字幕式 HUD，注入当前应用</li>
-        <li>可用麦克风、系统音频或外接硬件</li>
-      </ul>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/creative-asr.jpg" alt="实时转写示意" width="440"/><br/>
+      <strong>实时转写</strong><br/>
+      <sub>本机流式识别与离线定稿 · 说话人区分 · 音频默认不出本机</sub>
     </td>
-    <td width="48%" valign="top" align="center">
-      <img src="assets/crop-composer.jpg" alt="听写与输入栏" width="420"/>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/creative-dictation.jpg" alt="系统听写示意" width="440"/><br/>
+      <strong>系统听写</strong><br/>
+      <sub>按住修饰键说话 · 字幕式 HUD · 注入当前应用</sub>
     </td>
   </tr>
 </table>
@@ -72,13 +65,17 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="assets/crop-insight.jpg" alt="旁听洞察卡片" width="420"/><br/>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/creative-insight.jpg" alt="旁听洞察示意" width="280"/><br/>
       <sub><strong>洞察</strong> — 旁听时给出建议 / 待办 / 风险卡片，默认不自动执行</sub>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="assets/crop-docs.jpg" alt="工作区产出文档" width="420"/><br/>
-      <sub><strong>技能与工作区</strong> — 纪要、待办、风险等技能；转写中随时追问</sub>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/creative-skills.jpg" alt="技能产出示意" width="280"/><br/>
+      <sub><strong>技能</strong> — 会议总结、待办提取、风险识别等，结果落入文档</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/creative-workspace.jpg" alt="工作区互动示意" width="280"/><br/>
+      <sub><strong>工作区</strong> — 转写进行中随时追问，边听边互动</sub>
     </td>
   </tr>
 </table>
@@ -89,26 +86,9 @@
 
 ## 扩展硬件
 
-<p align="center">
-  <img src="assets/hardware.jpg" alt="CB08 录音卡与 AI Passport 电子工牌" width="860"/>
-</p>
+支持通过蓝牙连接 **CB08 录音卡** 与 **AI Passport 电子工牌**，作为随身音源与会议控制。
 
-<table>
-  <tr>
-    <th align="left">设备</th>
-    <th align="left">能力</th>
-  </tr>
-  <tr>
-    <td><strong>CB08 录音卡</strong></td>
-    <td>实时语音上行；支持设备上录音文件列表与下载</td>
-  </tr>
-  <tr>
-    <td><strong>AI Passport 电子工牌</strong></td>
-    <td>实时语音上行；三键控制会议；长按可触发听写</td>
-  </tr>
-</table>
-
-更多细节见 [软件介绍 · 扩展硬件](PRODUCT.md#扩展硬件)。
+详见 **[扩展硬件详情](HARDWARE.md)**（两款设备分别介绍）。
 
 ---
 
@@ -124,7 +104,8 @@
 
 | 文档 | 说明 |
 |------|------|
-| [软件介绍](PRODUCT.md) | 功能与硬件详情 |
+| [软件介绍](PRODUCT.md) | 功能详情 |
+| [扩展硬件详情](HARDWARE.md) | CB08 / AI Passport 分项说明 |
 | [下载与安装](DOWNLOAD.md) | Releases、Gatekeeper |
 | [使用教程](GUIDE.md) | 首次启动与连接硬件 |
 | [注意事项](NOTES.md) | 权限与数据目录 |
