@@ -87,4 +87,4 @@ flowchart TB
 - 可选配置你自己的云端大模型 API（文本才会出本机）
 - 数据目录：`~/Library/Application Support/本地语音助手/`
 
-返回 [首页](README.md) · [扩展硬件详情](HARDWARE.md) · [使用教程](GUIDE.md) · [下载](DOWNLOAD.md) · [捐赠](DONATE.md)
+返回 [首页](README.md) · [扩展硬件详情](HARDWARE.md) · [使用教程](GUIDE.md) · [下载](DOWNLOAD.md)

@@ -93,22 +93,3 @@
 
 反馈：[GitHub Issues](https://github.com/local-voice-assistant/local-voice-assistant/issues)  
 本仓库托管产品说明与安装包，**不包含源代码**。
-
----
-
-## 支持我们
-
-本软件免费使用。若对你有帮助，可通过微信或支付宝自愿捐赠；捐赠不影响任何功能。
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/donate-wechat.png" alt="微信收款码" width="240"/><br/>
-      <strong>微信</strong>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/donate-alipay.png" alt="支付宝收款码" width="240"/><br/>
-      <strong>支付宝</strong>
-    </td>
-  </tr>
-</table>
