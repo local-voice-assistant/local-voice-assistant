@@ -19,27 +19,6 @@
   <img src="assets/hero.jpg" alt="本地语音助手：工作区与扩展硬件" width="920"/>
 </p>
 
-<p align="center">
-  <sub>0.1.0 预发布 · Apple Silicon · macOS 14.2+ · 临时签名（首次请右键打开）</sub>
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <strong>核心功能</strong><br/>
-      <sub>转写 + 听写</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <strong>特色能力</strong><br/>
-      <sub>洞察 · 技能 · 工作区</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <strong>扩展硬件</strong><br/>
-      <sub>CB08 · AI Passport</sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 核心功能：转写 + 听写
@@ -110,7 +89,6 @@
 | [使用教程](GUIDE.md) | 首次启动与连接硬件 |
 | [注意事项](NOTES.md) | 权限与数据目录 |
 | [FAQ](FAQ.md) | 常见问题 |
-| [捐赠](DONATE.md) | 自愿支持（本页下方亦可扫码） |
 | [用户协议](legal/USER_AGREEMENT.md) / [隐私说明](legal/PRIVACY.md) | 法务 |
 
 反馈：[GitHub Issues](https://github.com/local-voice-assistant/local-voice-assistant/issues)  
