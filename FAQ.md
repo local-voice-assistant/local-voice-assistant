@@ -10,6 +10,6 @@
 
 ### 如何反馈？
 
-请到 [GitHub Issues](https://github.com/local-voice-assistant/local-voice-assistant/issues)，可附带设置 → 关于 → 导出诊断包。
+请到 [GitHub Issues](https://github.com/local-voice-assistant/local-voice-assistant/issues)。
 
 返回 [首页](README.md)
