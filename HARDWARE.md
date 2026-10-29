@@ -25,8 +25,8 @@
 </p>
 
 - 实时语音上行（设备上无录音文件分区）
-- 三键控制会议：开始 / 停止 / 暂停与继续
-- 长按可触发听写（听写音源需设为工牌时）
+- 会议按键：上键开始录音，下键停止，OK 暂停或继续
+- 听写由电脑 Fn 控制。听写中：上键写入、下键撤回、OK 回车（听写音源需设为工牌）
 - 适合佩戴使用、现场按键控制会议节奏的场景
 
 产品官网：[ai-passport.folotoy.cn](https://ai-passport.folotoy.cn/) · [快速上手](https://ai-passport.folotoy.cn/guides/getting-started/)

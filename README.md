@@ -33,7 +33,7 @@
     <td width="50%" valign="top" align="center">
       <img src="assets/creative-dictation.jpg" alt="系统听写示意" width="440"/><br/>
       <strong>系统听写</strong><br/>
-      <sub>按住修饰键说话 · 字幕式 HUD · 注入当前应用</sub>
+      <sub>按住电脑 Fn 说话 · 字幕式 HUD · 注入当前应用</sub>
     </td>
   </tr>
 </table>
