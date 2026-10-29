@@ -1,9 +1,9 @@
 {
   "version": "0.1.2",
   "url": "https://github.com/local-voice-assistant/local-voice-assistant/releases/download/v0.1.2/LocalVoiceAssistant-0.1.2-arm64.dmg",
-  "sha256": "e8f40f089b35387645d77fc8bde175d1ea710cd9de72da2ac2b3cd99388d5c27",
+  "sha256": "0da6a5423e48452609376c6f31af79fb3f1c95772b022ad2631ddd7ad187889a",
   "notes": "见 GitHub Release 说明",
-  "publishedAt": "2026-10-29T08:02:18Z",
+  "publishedAt": "2026-10-29T11:14:53Z",
   "arch": "arm64",
   "minOs": "14.2"
 }
